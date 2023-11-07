@@ -3,7 +3,7 @@ body{
     font-family: 'Righteous', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('/assets/First_page.jpg'); /* Replace 'path/to/your-image.jpg' with the actual path to your image */
+    background-image: url('./assets/First_page.jpg'); /* Replace 'path/to/your-image.jpg' with the actual path to your image */
     background-size: cover;
     background-repeat: no-repeat;
 
